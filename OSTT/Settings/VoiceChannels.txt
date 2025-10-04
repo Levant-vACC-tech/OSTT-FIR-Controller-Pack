@@ -1,0 +1,14 @@
+VOICE
+AG:OSAP_APP Aleppo Radar:119.100
+AG:OSAP_GND Aleppo Ground:119.800
+AG:OSAP_TWR Aleppo Tower:119.150
+AG:OSDI_APP Damascus Control:121.000
+AG:OSDI_ATIS:128.225
+AG:OSDI_GND Damascus Ground:121.900
+AG:OSDI_TWR Damascus Tower:118.500
+AG:OSDZ_TWR Deir Zzor Tower:118.075
+AG:OSKL_TWR Kamishly Tower:118.225
+AG:OSLK_APP Damascus Control:120.100
+AG:OSLK_TWR Latakia Tower:118.100
+AG:OSTT_CTR Damascus Radar:129.600
+END
