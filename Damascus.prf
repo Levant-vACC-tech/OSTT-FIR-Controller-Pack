@@ -48,10 +48,10 @@ Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin1Display2	Ground Radar display
-LastSession	callsign	OSDI_TWR
-LastSession	realname	Kai Mannion
-LastSession	certificate	1628645
-LastSession	password	Kaipooh2
+LastSession	callsign	
+LastSession	realname	
+LastSession	certificate	
+LastSession	password	
 LastSession	facility	4
 LastSession	rating	2
 LastSession	server	AUTOMATIC
